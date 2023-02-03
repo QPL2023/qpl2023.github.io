@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -r ~/qpl-jekyll/_site/* .
