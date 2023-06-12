@@ -1,8 +1,8 @@
-const version = '20230503182019';
+const version = '20230612113523';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/accepted/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/images/QPL-logo-final-no-title.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/accepted/","/","/program/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/images/QPL-logo-final-no-title.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
